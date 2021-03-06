@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Solucja1.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\xxx\Desktop\SEMESTR 6\APBD\PierwszaSolucja\Solucja1\.idea\.idea.Solucja1\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
